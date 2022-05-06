@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/HighestDreams/BetterSaveResources
+build-by-default: true
+branches:
+- main
+projects:
+  BetterSaveResources:
+    path: ""
+    model: virion
+    type: library
+...
